@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Mohamed from Egypt<br><br>- 🔭 I’m working as AI Engineer<br>- 📚 I'm currently learning Advanced NLP Applications and LLMs<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mohamed from Egypt<br><br>- 🔭 I’m working as AI Engineer<br>- 📚 I'm currently learning Advanced NLP Applications and LLMs<br>
 
 ###
 
