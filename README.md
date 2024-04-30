@@ -1,18 +1,26 @@
-<div align="center">
-  <img height="150" src="https://www.linkedin.com/in/mohamedadlyi/"  />
-</div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/mohamedadlyi/">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin">
+    </a>
 </div>
+
+<div align="center">
+    <a href="https://www.kaggle.com/mohamedadlyi">
+        <img src="https://www.kaggle.com/static/images/site-logo.svg" width="80" alt="kaggle">
+    </a>
+</div>
+
+###
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedadlyi&"  />
 </div>
+
 
 ###
 
